@@ -1,0 +1,11 @@
+#folders
+.settings/
+assets/
+bin/
+.git/
+
+#files
+.classpath
+.project
+proguard-project.txt
+project.properties

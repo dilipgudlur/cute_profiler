@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, QPower is here!</string>
+    <string name="app_name">QPower</string>
+	<string name="dmaText">DMA</string>
+	<string name="spiText">SPI</string>
+	<string name="i2cText">I2C</string>
+	<string name="powerText">Power</string>
+	<string name="onScreenText">Run Script</string>
+	<string name="homeText">HOME</string>
+	<string name="backText">BACK</string>
+	<string name="exitText">EXIT</string>
+	<string name="selectText">Select the device to be tested</string>
+	<string name="deviceText">Device</string>
+	<string name="blockText">Block Size</string>
+	<string name="numofblockText">NumOfBlocks</string>
+	<string name="offsetText">Offset</string>
+	<string name="verboseText">Verbose</string>
+	<string name="probeText">Probe</string>
+	<string name="pleaseText">Please see HELP before proceeding</string>
+	<string name="iterationsText">Iterations</string>
+	<string name="helpText">HELP</string>
+	<string name="logText">LOG</string>
+	<string name="cablText">CABL</string>
+	<string name="brightText">BRIGHTNESS</string>
+	<string name="testText">TEST</string>
+	<string name="rwText">Test SD</string>
+	<string name="preferenceText">PREFERENCES</string>
+	<string name="traceText">Trace</string>
+	<string name="outputText">OUTPUT</string>
+	<string name="usb_mass_storage_title">USB MASS STORAGE</string>
+	<string name="usb_mass_storage_summary">Enable/Disable USB Mass Storage</string>
+	<string name="sd_poll_title">SD Polling</string>
+    <string name="sd_poll_summary">Enable/Disable SD Polling</string>
+    <string name="sdsettings">SDSettings</string>
+    <string name="kbText">Enter data in KB</string>
+	
+	
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+   xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<PreferenceCategory
+      android:key="sdcard_settings"
+      android:title="@string/sdsettings">
+        
+        <CheckBoxPreference
+         android:key="usb_mass_storage"
+         android:title="@string/usb_mass_storage_title"
+         android:summary="@string/usb_mass_storage_summary"
+         android:defaultValue="true"
+         />
+
+      <CheckBoxPreference
+         android:key="sd_polling"
+         android:title="@string/sd_poll_title"
+         android:summary="@string/sd_poll_summary"
+         android:defaultValue="true"
+         />
+   	</PreferenceCategory> 
+   </PreferenceScreen>    

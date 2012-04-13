@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:orientation="vertical" xmlns:android="http://schemas.android.com/apk/res/android">
+		<Button android:id="@+id/onScreen" android:layout_width="wrap_content" android:text="@string/onScreenText" android:layout_height="wrap_content" android:layout_margin="25dp"></Button>
+		<Button android:id="@+id/log" android:layout_width="wrap_content" android:text="@string/logText" android:layout_height="wrap_content" android:layout_margin="25dp"></Button>
+		<Button android:id="@+id/cabl" android:layout_width="wrap_content" android:text="@string/cablText" android:layout_height="wrap_content" android:layout_margin="25dp"></Button>
+		<Button android:id="@+id/bright" android:layout_width="wrap_content" android:text="@string/brightText" android:layout_height="wrap_content" android:layout_margin="25dp"></Button>
+        <LinearLayout android:layout_width="wrap_content"  android:layout_height="wrap_content" android:orientation="horizontal" >
+        	<Button android:id="@+id/home" android:layout_width="wrap_content" android:text="@string/homeText" android:layout_height="wrap_content" android:layout_margin="25dp"></Button>
+       		<Button android:id="@+id/back" android:layout_width="wrap_content" android:text="@string/backText" android:layout_height="wrap_content" android:layout_margin="25dp"></Button>
+        	<Button android:id="@+id/exit" android:layout_width="wrap_content" android:text="@string/exitText" android:layout_height="wrap_content" android:layout_margin="25dp"></Button>
+   		</LinearLayout>
+    </LinearLayout>
+    
