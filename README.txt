@@ -1,0 +1,2 @@
+Author: Dilip Gudlur
+Cute Profiler is a multi purpose profiler application framework. Designed to be built in a top-down manner, exposing an android user interface and communicating with system internals.
